@@ -1,0 +1,7 @@
+C:\Users\User\repos\blazor-learning\BlazorApp\out\BlazorApp.exe
+C:\Users\User\repos\blazor-learning\BlazorApp\out\appsettings.Development.json
+C:\Users\User\repos\blazor-learning\BlazorApp\out\appsettings.json
+C:\Users\User\repos\blazor-learning\BlazorApp\out\BlazorApp.dll
+C:\Users\User\repos\blazor-learning\BlazorApp\out\BlazorApp.deps.json
+C:\Users\User\repos\blazor-learning\BlazorApp\out\BlazorApp.runtimeconfig.json
+C:\Users\User\repos\blazor-learning\BlazorApp\out\BlazorApp.pdb

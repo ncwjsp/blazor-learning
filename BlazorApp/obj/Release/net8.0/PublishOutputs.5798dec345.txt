@@ -1,0 +1,7 @@
+C:\Users\User\repos\blazor-learning\BlazorApp\bin\Release\net8.0\publish\BlazorApp.exe
+C:\Users\User\repos\blazor-learning\BlazorApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\User\repos\blazor-learning\BlazorApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\User\repos\blazor-learning\BlazorApp\bin\Release\net8.0\publish\BlazorApp.dll
+C:\Users\User\repos\blazor-learning\BlazorApp\bin\Release\net8.0\publish\BlazorApp.deps.json
+C:\Users\User\repos\blazor-learning\BlazorApp\bin\Release\net8.0\publish\BlazorApp.runtimeconfig.json
+C:\Users\User\repos\blazor-learning\BlazorApp\bin\Release\net8.0\publish\BlazorApp.pdb
